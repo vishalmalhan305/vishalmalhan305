@@ -11,10 +11,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal.malhan305@gmail.com)
 [![Location](https://img.shields.io/badge/Unionville%2C%20Ontario-Canada-CC0000?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Unionville,Ontario)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishalmalhan305&color=#d12115style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
