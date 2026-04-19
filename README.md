@@ -13,7 +13,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishalmalhan305&color=7DF9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vishalmalhan305&color=#d12115style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
