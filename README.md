@@ -71,7 +71,7 @@ My sweet spot is the intersection of **scalable backends**, **clean React fronte
 
 `Spring Boot` `React/TS` `Three.js` `AWS ECS Fargate` `D3.js` `Redis` `Claude AI`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/space-data-visualiser)
+[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/space-visualiser)
 
 ---
 
@@ -89,7 +89,7 @@ My sweet spot is the intersection of **scalable backends**, **clean React fronte
 
 `AWS Lambda` `DynamoDB` `S3` `GitHub Actions`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/aws-bookstore)
+[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/OnlineBookstoreManagementAPI)
 
 ---
 
@@ -98,16 +98,8 @@ My sweet spot is the intersection of **scalable backends**, **clean React fronte
 
 `MongoDB` `Express` `React` `Node.js` `Redux` `JWT`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/ecommerce-marketplace)
+[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/Student_Ecommerce)
 
----
-
-**📚 Library Management System**
-> Reactive microservices using Spring Boot WebFlux with Mono/Flux patterns. High-performance async REST APIs consumed from a React frontend.
-
-`Spring Boot WebFlux` `React` `Reactive Programming`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmalhan305/library-management)
 
 ---
 
@@ -129,13 +121,7 @@ My sweet spot is the intersection of **scalable backends**, **clean React fronte
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishalmalhan305&theme=algolia&no-frame=true&row=1&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![snake](https://raw.githubusercontent.com/vishalmalhan305/vishalmalhan305/output/github-snake-dark.svg)
 
 ---
 
